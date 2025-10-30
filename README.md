@@ -1,2 +1,2 @@
 # Learning-C
-Learning basic commands and 
+Learning basic commands 
